@@ -1,7 +1,7 @@
 # Alura-imersao-3
 
-##Repositório para aulas e desafios referentes a Imersão dados da Alura.
+## Repositório para aulas e desafios referentes a Imersão dados da Alura.
 
-###Para mais informações: https://www.alura.com.br/imersao-dados
+### Para mais informações: https://www.alura.com.br/imersao-dados
 
-##This repository is from a event on Alura called Imersão Dados.
+## This repository is from a event on Alura called Imersão Dados.
