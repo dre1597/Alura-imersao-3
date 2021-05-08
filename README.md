@@ -1,6 +1,6 @@
 # Alura-imersao-3
 
-##Repositório para aulas, projetos e afins referentes a Imersão dados da Alura.
+##Repositório para aulas e desafios referentes a Imersão dados da Alura.
 
 ###Para mais informações: https://www.alura.com.br/imersao-dados
 
